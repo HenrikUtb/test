@@ -1,3 +1,4 @@
-Test
+Test med ny branch
 teste nummer 2
 Setning nr 3
+Dette er en ny branch
